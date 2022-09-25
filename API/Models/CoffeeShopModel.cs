@@ -1,6 +1,6 @@
 ﻿namespace API.Models
 {
-    public class CoffeShopModel
+    public class CoffeeShopModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

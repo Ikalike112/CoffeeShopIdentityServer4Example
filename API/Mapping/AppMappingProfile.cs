@@ -8,7 +8,7 @@ namespace API.Mapping
     {
         public AppMappingProfile()
         {
-            CreateMap<CoffeShop, CoffeShopModel>();
+            CreateMap<CoffeShop, CoffeeShopModel>();
         }
     }
 }
